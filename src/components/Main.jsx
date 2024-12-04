@@ -1,5 +1,5 @@
 import michaelJackson from "../assets/images/michael-jackson.jpg";
-import background from "../assets/images/background.png";
+import background from "../assets/images/Background.png";
 import { MdVerified } from "react-icons/md";
 
 const Main = () => {
