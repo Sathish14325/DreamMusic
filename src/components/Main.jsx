@@ -31,7 +31,7 @@ const Main = () => {
       <img
         src={michaelJackson}
         alt="Michael Jackson"
-        className="absolute bottom-0 right-0 md:right-20  w-60 md:w-96 h-92 z-10 object-contain"
+        className="absolute bottom-0 right-0 md:right-20  w-60 md:w-96 h-92 z-auto object-contain"
       />
     </div>
   );
